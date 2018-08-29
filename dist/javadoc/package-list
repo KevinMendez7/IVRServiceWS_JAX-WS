@@ -1,0 +1,6 @@
+
+com.sisintegrados.serviceivrws.configuration
+com.sisintegrados.serviceivrws.dao
+com.sisintegrados.serviceivrws.domain
+com.sisintegrados.serviceivrws.service
+com.sisintegrados.serviceivrws.util
